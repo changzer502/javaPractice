@@ -11,9 +11,14 @@ package LeetCode;/**
  *@version 1.0
  */
 public class testaa {
-    public static void main(String[] args) {
-        String r = null;
-        assert r != null;
-        System.out.println(r.isEmpty());
+    int x;
+    //public static void main(String[] args) {
+    //    String r = null;
+    //    assert r != null;
+    //    System.out.println(r.isEmpty());
+    //}
+    public void test(int n){
+        int m;
+        int t = x + n;
     }
 }
