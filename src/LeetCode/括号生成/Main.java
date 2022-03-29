@@ -1,7 +1,6 @@
 package LeetCode.括号生成;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -18,7 +17,7 @@ class Solution {
     void getAll(List<String> res, int index, char[] cc){
         if(index == cc.length){
             if(ok(cc)){
-                res.add(Arrays.toString(cc));
+                res.add(new String(cc));
             }
         }
         cc[index] = '(';

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="left:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/left_jar</output-path>
+    <root id="archive" name="left.jar">
+      <element id="module-output" name="left" />
+    </root>
+  </artifact>
+</component>
