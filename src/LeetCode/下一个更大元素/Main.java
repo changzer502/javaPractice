@@ -9,16 +9,19 @@ package LeetCode.下一个更大元素;
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n = nums1.length;
-        int[] res = new int[n];
+        //adasdasdasda
+        //adasdasdasda
+        //adasdasdasda
+        int[] res = new int[n];//adasdasdasda
         for(int i = 0; i < n; i++){
             res[i] = -1;
             for(int j = i; j < nums2.length; j++){
                 if(nums2[j] > nums1[i]){
                     res[i] = nums2[j];
                     break;
-                }
-            }
-        }
+                }//adasdasdasda
+            }//adasdasdasda
+        }//adasdasdasda
         return res;
     }
 }
