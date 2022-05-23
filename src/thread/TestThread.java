@@ -1,24 +1,13 @@
-package thread;/**
- * @author lingqu
- * @date 2022/2/23
- * @apiNote
- */
-
-/**
- *@description TODO
- *@author zzhi
- *@createDate 2022/2/23
- *@version 1.0
- */
+package thread;
 
 public class TestThread {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         AddThread add= new AddThread();
         DecThread dec = new DecThread();
         add.start();
         dec.start();
-        add.join();
-        dec.join();
+        //add.join();
+        //dec.join();
         System.out.println(Counter.count);
     }
 }

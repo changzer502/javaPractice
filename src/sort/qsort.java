@@ -6,7 +6,7 @@ package sort;
  * @apiNote
  */
 public class qsort {
-    public static void main(Main[] args) {
+    public static void main(String[] args) {
         // 调用
         int[] nums = { 4, 1, 3, 2, 5 };
         quickSort(nums, 0, nums.length - 1);
@@ -16,7 +16,9 @@ public class qsort {
     }
     static void quickSort(int[] nums, int l, int r) {
         // 子数组长度为 1 时终止递归
-        if (l >= r) return;
+        if (l >= r) {
+            return;
+        }
         // 哨兵划分操作
         int i = partition(nums, l, r);
         // 递归左（右）子数组执行哨兵划分
@@ -28,8 +30,12 @@ public class qsort {
         // 以 nums[l] 作为基准数
         int i = l, j = r;
         while (i < j) {
-            while (i < j && nums[j] >= nums[l]) j--;
-            while (i < j && nums[i] <= nums[l]) i++;
+            while (i < j && nums[j] >= nums[l]) {
+                j--;
+            }
+            while (i < j && nums[i] <= nums[l]) {
+                i++;
+            }
             swap(nums, i, j);
         }
         swap(nums, i, l);
@@ -42,6 +48,4 @@ public class qsort {
         nums[i] = nums[j];
         nums[j] = tmp;
     }
-
-
 }

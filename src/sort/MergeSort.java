@@ -6,14 +6,15 @@ package sort;
  * @date 2021/10/14
  * @apiNote
  */
-public class guibingSort {
-    public static void main(Main[] args) {
+public class MergeSort {
+    public static void main(String[] args) {
         int[] arr={1,6,3,7,2};
         mergeSort(arr);
         for (int value : arr) {
-            System.out.println(value);
+            System.out.print(value);
         }
     }
+
     public static void mergeSort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
@@ -50,6 +51,4 @@ public class guibingSort {
             arr[l + i] = help[i];
         }
     }
-
-
 }
