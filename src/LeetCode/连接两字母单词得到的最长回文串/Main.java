@@ -3,7 +3,6 @@ package LeetCode.连接两字母单词得到的最长回文串;
 import java.util.HashMap;
 import java.util.Map;
 
-import static jdk.nashorn.internal.objects.NativeDebug.map;
 
 /**
  * @author lingqu
@@ -25,7 +24,7 @@ class Solution {
                 mapAA.put(words[i],mapAA.getOrDefault(words[i],0)+1);
             }else{
                 if(!map.containsKey(sb.toString()) && !map.containsKey(words[i])){
-                    map(words[i],0);
+                    //map(words[i],0);
                 }else{
                     if(map.containsKey(sb.toString())){
                         map.put(words[i],map.getOrDefault(words[i],0)+1);

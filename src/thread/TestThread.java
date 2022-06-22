@@ -1,13 +1,13 @@
 package thread;
 
 public class TestThread {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         AddThread add= new AddThread();
         DecThread dec = new DecThread();
         add.start();
         dec.start();
-        //add.join();
-        //dec.join();
+        add.join();
+        dec.join();
         System.out.println(Counter.count);
     }
 }

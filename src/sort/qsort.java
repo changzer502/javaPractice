@@ -1,10 +1,5 @@
 package sort;
 
-/**
- * @author lingqu
- * @date 2021/10/28
- * @apiNote
- */
 public class qsort {
     public static void main(String[] args) {
         // 调用
