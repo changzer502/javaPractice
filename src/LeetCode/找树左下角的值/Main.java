@@ -18,7 +18,6 @@ public class Main {
     }
 }
 
-
 class TreeNodes {
     int val;
     TreeNodes left;
@@ -42,10 +41,8 @@ class Solution {
             boolean flag = true;
             int num = 0;
             TreeNodes first = queue.peek();
-
             while(queue.size() > 0) {
                 TreeNodes tt = queue.poll();
-
                 if (tt.left != null) {
                     tQueue.add(tt.left);
                     num++;
@@ -54,7 +51,6 @@ class Solution {
                     tQueue.add(tt.right);
                     num++;
                 }
-
             }
             queue = tQueue;
             if (num == 0) {
