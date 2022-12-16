@@ -525,7 +525,7 @@ public class RBTree<T extends Comparable<T>> {
         if(parent==null){//当前节点是根节点
             //right  raise to root node
             root.setLeft(right);
-            setParent(right,null);
+            //setParent(right,null);
         }else{
             if(parent.getLeft()==node){
                 parent.setLeft(right);
@@ -533,8 +533,9 @@ public class RBTree<T extends Comparable<T>> {
                 parent.setRight(right);
             }
             //right.setParent(parent);
-            setParent(right,parent);
         }
+        setParent(right,parent);
+
     }
 
     /**
@@ -631,7 +632,8 @@ public class RBTree<T extends Comparable<T>> {
         bst.addNode(30);
         bst.addNode(40);
         bst.addNode(57);
-
+        bst.printTree(bst.getRoot());
+        System.out.println("=============");
         bst.addNode(3);
         bst.addNode(2);
 
