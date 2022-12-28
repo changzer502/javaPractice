@@ -7,27 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a50eddd5-62bb-4dad-a142-39d9f052ea37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/构成特定和需要添加的最少元素/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/构成特定和需要添加的最少元素/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/长度为K子数组中的最大和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/A除以B/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/在霍格沃茨找零钱/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/大美数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/平等的交易/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/所有点的最短路/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/找素数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/有多少个ACM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/朋友数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/检测密码/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/猜拳/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/科学计数法/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/组个最小数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/统计同成绩学生/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/莲子的机械动力学/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/莲子的软件工程学/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAT/车站/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/hdu1276士兵队列训练问题/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/hdu2094产生冠军/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/hdu2648Shopping/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACM/hdu4841圆桌问题/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/删除字符串两端相同字符后的最短长度/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/寻找图中是否存在路径/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/统计同构子字符串的数目/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAT/输出PATest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/challenge/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/challenge/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/challenge/t3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/challenge/t4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructure/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/RBTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +33,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -88,14 +78,15 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -106,7 +97,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -117,26 +109,13 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.在霍格沃茨找零钱.Main" />
+      <option name="MAIN_CLASS_NAME" value="ACM.hdu2094产生冠军.Main" />
       <module name="left" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PAT.在霍格沃茨找零钱.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.构成特定和需要添加的最少元素.Main" />
-      <module name="left" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.构成特定和需要添加的最少元素.*" />
+          <option name="PATTERN" value="ACM.hdu2094产生冠军.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +124,24 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.莲子的机械动力学.Main" />
+      <option name="MAIN_CLASS_NAME" value="ACM.hdu1276士兵队列训练问题.Main" />
       <module name="left" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PAT.莲子的机械动力学.*" />
+          <option name="PATTERN" value="ACM.hdu1276士兵队列训练问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.hdu4841圆桌问题.Main" />
+      <module name="left" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.hdu4841圆桌问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.莲子的排版设计学.Main" />
+      <option name="MAIN_CLASS_NAME" value="ACM.hdu2648Shopping.Main" />
       <module name="left" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PAT.莲子的排版设计学.*" />
+          <option name="PATTERN" value="ACM.hdu2648Shopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PAT.统计同成绩学生.Main" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.删除字符串两端相同字符后的最短长度.Main" />
       <module name="left" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PAT.统计同成绩学生.*" />
+          <option name="PATTERN" value="LeetCode.删除字符串两端相同字符后的最短长度.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,14 +177,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -355,7 +348,16 @@
       <workItem from="1669354985111" duration="4126000" />
       <workItem from="1669448980476" duration="3937000" />
       <workItem from="1669456656239" duration="771000" />
-      <workItem from="1671195734094" duration="3809000" />
+      <workItem from="1671195734094" duration="5729000" />
+      <workItem from="1671341709596" duration="6222000" />
+      <workItem from="1671434254197" duration="1084000" />
+      <workItem from="1672034399849" duration="12502000" />
+      <workItem from="1672209321664" duration="1101000" />
+      <workItem from="1672211079478" duration="145000" />
+      <workItem from="1672211260174" duration="926000" />
+      <workItem from="1672213400582" duration="2349000" />
+      <workItem from="1672226562319" duration="31000" />
+      <workItem from="1672226625842" duration="1347000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1647856089637</created>
@@ -462,24 +464,30 @@
       <option name="project" value="LOCAL" />
       <updated>1667398178579</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2022/12/16">
+      <created>1671200270320</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671200270320</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
@@ -493,113 +501,14 @@
     <MESSAGE value="10/8" />
     <MESSAGE value="10/17" />
     <MESSAGE value="数据结构——红黑树" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构——红黑树" />
+    <MESSAGE value="2022/12/16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/12/16" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1668244414973">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1668244414973" />
-    <state x="672" y="231" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1667807306277">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1672229296858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="672" y="231" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1667807306277" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667389535620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1667389535620" />
-    <state x="375" y="0" key="CommitChangelistDialog2" timestamp="1667398176346">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1666009638770" />
-    <state x="375" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1667398176346" />
-    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.bottom/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668396233617" />
-    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618775" />
-    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.center/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="290" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1668396233617" />
-    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618774" />
-    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.left/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="290" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1668396233617" />
-    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618774" />
-    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.right/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="290" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1668396233617" />
-    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618775" />
-    <state width="1877" height="371" key="GridCell.Tab.1.bottom" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.bottom/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618776" />
-    <state width="1877" height="371" key="GridCell.Tab.1.center" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.center/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618776" />
-    <state width="1877" height="371" key="GridCell.Tab.1.left" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.left/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1668258713674" />
-    <state width="1877" height="371" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618776" />
-    <state width="1877" height="371" key="GridCell.Tab.1.right" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.right/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618776" />
-    <state width="1877" height="371" key="GridCell.Tab.2.bottom" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.bottom/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618777" />
-    <state width="1877" height="371" key="GridCell.Tab.2.center" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.center/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618777" />
-    <state width="1877" height="371" key="GridCell.Tab.2.left" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.left/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618776" />
-    <state width="1877" height="371" key="GridCell.Tab.2.right" timestamp="1671200052874">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.right/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671200052874" />
-    <state width="1237" height="219" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1668258713675" />
-    <state width="1877" height="371" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668410618777" />
-    <state x="350" y="95" key="Vcs.Push.Dialog.v2" timestamp="1667398181885">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="233" y="62" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1666009643694" />
-    <state x="350" y="95" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1667398181885" />
-    <state x="506" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1671195733982">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="506" y="258" key="com.intellij.ide.util.TipDialog/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1671195733982" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1669354985205" />
-    <state x="506" y="258" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1668400987595" />
-    <state x="384" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1665223299445">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="384" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1665223299445" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1920.437.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1672229296858" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -779,6 +688,56 @@
           <line>26</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PAT/输出PATest/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t1/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t1/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t1/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t2/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t2/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t3/Main.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/challenge/t4/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ACM/hdu2648Shopping/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/删除字符串两端相同字符后的最短长度/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -786,6 +745,10 @@
         <watch expression="nums[3]" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Left$Main__2_.ic" NAME="Main (2) Coverage Results" MODIFIED="1656942575910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
