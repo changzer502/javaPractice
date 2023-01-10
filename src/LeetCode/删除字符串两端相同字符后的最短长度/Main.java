@@ -10,6 +10,7 @@ public class Main {
         System.out.println(s.minimumLength("abbbbbbbbbbbbbbbbbbba"));
     }
 }
+
 class Solution {
     public int minimumLength(String s) {
         char[] chars = s.toCharArray();
